@@ -2,8 +2,8 @@
 Relative distance tree for storing and searching multidimensional patterns.
 
 Reference:
-A Search Technique for Pattern Recognition Using Relative Distances
-Thomas E. Portegys
+A Search Technique for Pattern Recognition Using Relative Distances,
+Thomas E. Portegys,
 IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE,
 VOL. 17, NO. 9, SEPTEMBER 1995
 
